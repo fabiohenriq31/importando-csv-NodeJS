@@ -134,7 +134,7 @@ Descrição da imagem: Captura de tela do Insomnia mostrando uma requisição GE
 Importação de CSV:
 ![Alt Text](/src/public/6-%20CSV.jpg)
 
-Descrição da imagem: Captura de tela do Insomnia mostrando uma requisição POST para importar tasks de um arquivo CSV para a API.
+Descrição da imagem: Captura de tela do VScode mostrando um arquivo CSV para a API.
 
 Processo de Importação do CSV:
 ![Alt Text](/src/public/7%20-%20Importando%20CSV.jpg)
